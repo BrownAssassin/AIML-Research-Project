@@ -1,0 +1,10 @@
+Images: 6234
+MICRO (from totals): TP=908074274 FP=276713438 FN=4331880827 TN=8846467461 | Precision=0.7664 Recall=0.1733 F1=0.2827 IoU=0.1646 Acc=0.6791
+MACRO (per-image): Precision μ/med=0.2680/0.0000  Recall μ/med=0.1799/0.0000  F1 μ/med=0.1975/0.0000  IoU μ/med=0.1586/0.0000  Acc μ/med=0.6791/0.6582
+IoU percentiles: p25=0.0000  p50=0.0000  p75=0.3446
+Per-sequence mean IoU:
+  00000: 0.1489
+  00001: 0.1867
+  00002: 0.1006
+  00003: 0.1058
+  00004: 0.3218
